@@ -8,6 +8,7 @@ android网络请求框架Xutils的进一步封装
 ...代码注释完整
 >这个类是关键类
 >>要想使用的话，需要自己加入xutils的jar包
+##重点 ：如果compile版本在22以上的话，需要自行导入httpClient包
 
 
 ```
