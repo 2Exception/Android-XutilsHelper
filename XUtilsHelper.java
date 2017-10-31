@@ -87,10 +87,10 @@ public  class XUtilsHelper<T> {
      * @param url
      *            网络资源地址
      * @param handler
-     *            消息处理对象，用于请求完成后的怎么处理返回的结果数据
+     *            消息处理对象，用于请求完成后的怎么处理返回的结果数据 profile
      */
     public XUtilsHelper(Context context, String url, Handler handler) {
-
+        
         this.context = context;
 
         try {
